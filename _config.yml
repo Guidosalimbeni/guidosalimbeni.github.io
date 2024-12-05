@@ -1,3 +1,5 @@
 title: Your Name
 description: ML Researcher & Artist
 theme: minima
+plugins:
+  - jekyll-feed
