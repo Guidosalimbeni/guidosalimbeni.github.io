@@ -114,3 +114,51 @@ nav a {
     grid-template-columns: 1fr;
   }
 }
+
+/* Additional CV Styles */
+.cv-container {
+  font-size: 16px;
+  line-height: 1.8;
+}
+
+.contact-info a {
+  margin: 0 10px;
+  color: #333;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  color: #666;
+}
+
+.cv-section ul {
+  padding-left: 20px;
+  margin: 10px 0;
+}
+
+.cv-section h3 {
+  color: #444;
+  margin: 25px 0 15px 0;
+}
+
+.cv-section h4 {
+  color: #555;
+  margin: 15px 0 5px 0;
+}
+
+.date {
+  color: #666;
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.skills-grid {
+  margin-top: 20px;
+}
+
+.skill-category h3 {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+}
+
+/* Add more specific styles as needed */
