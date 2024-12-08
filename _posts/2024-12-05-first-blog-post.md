@@ -11,6 +11,8 @@ categories: [blog, Publications]
 
 ![Drawing Games for Little Observers](/images/book.png)
 
+<img src="/images/book.png" alt="Drawing Games for Little Observers" style="width: 360px; height: auto;">
+
 The aim of this approach is to help children understand that drawing is not simply about copying a photo or imitating an expert's artwork—both of which can feel daunting due to their precision or skill. Instead, these games show that drawing is about creating a unique interpretation of the world. By learning to observe without the pressure of achieving photographic realism, children realize that what they create is their own unfiltered view—a "first-hand" interpretation. This understanding fosters confidence, as the child sees drawing not as a comparison to others' work but as a direct expression of their own perception.
 
 Through these games, children begin to appreciate that drawing is a skill everyone can develop. It is less about perfection and more about the ability to see and capture what they notice, building self-assurance in their own abilities to interpret and represent the world around them.
