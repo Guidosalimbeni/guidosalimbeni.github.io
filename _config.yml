@@ -3,3 +3,7 @@ description: ML Researcher & Artist
 theme: minima
 plugins:
   - jekyll-feed
+
+# Add these lines:
+baseurl: "" # leave empty if your site is at root level
+url: "www.guidosalimbeni.it" # your site's full URL
