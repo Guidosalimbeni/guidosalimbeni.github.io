@@ -9,7 +9,7 @@ categories: [blog, Publications]
 
 [**"Drawing Games for Little Observers"**](https://amzn.eu/d/fZw5xsp) is a collection of creative games designed to teach children how to draw by sharpening their observational skills. Each game encourages children to see drawing as a joyful exploration rather than a test of skill or accuracy. However, these games are not solo activities; they require the active participation of an adult to make the experience richer and more engaging. Together, the child and adult can embark on these games, discovering new ways to look at and interpret the world.
 
-![Drawing Games for Little Observers]({{ site.baseurl }}/images/book.png)
+![Drawing Games for Little Observers]({{ site.baseurl }}images/book.png)
 
 The aim of this approach is to help children understand that drawing is not simply about copying a photo or imitating an expert's artwork—both of which can feel daunting due to their precision or skill. Instead, these games show that drawing is about creating a unique interpretation of the world. By learning to observe without the pressure of achieving photographic realism, children realize that what they create is their own unfiltered view—a "first-hand" interpretation. This understanding fosters confidence, as the child sees drawing not as a comparison to others' work but as a direct expression of their own perception.
 
