@@ -7,7 +7,7 @@ categories: [blog, Publications]
 
 # Published a drawing book on Amazon
 
-**"Drawing Games for Little Observers"** is a collection of creative games designed to teach children how to draw by sharpening their observational skills. Each game encourages children to see drawing as a joyful exploration rather than a test of skill or accuracy. However, these games are not solo activities; they require the active participation of an adult to make the experience richer and more engaging. Together, the child and adult can embark on these games, discovering new ways to look at and interpret the world.
+[**"Drawing Games for Little Observers"**](https://amzn.eu/d/fZw5xsp) is a collection of creative games designed to teach children how to draw by sharpening their observational skills. Each game encourages children to see drawing as a joyful exploration rather than a test of skill or accuracy. However, these games are not solo activities; they require the active participation of an adult to make the experience richer and more engaging. Together, the child and adult can embark on these games, discovering new ways to look at and interpret the world.
 
 ![Drawing Games for Little Observers](/images/book.png)
 
@@ -22,5 +22,7 @@ Through these games, children begin to appreciate that drawing is a skill everyo
 This book is about having fun while learning to see the world differently. If you and your child come up with your own drawing games, that's even better! The main goal is to foster observation, build confidence, and show that drawing isn’t as daunting as it seems. It’s all about exploring together, interpreting the world in your own way, and enjoying the creative process.
 
 Feel free to reach out to me on [Instagram](https://instagram.com/guidosalimbeni).
+
+The book is available [here](https://amzn.eu/d/fZw5xsp)
 
 ---
