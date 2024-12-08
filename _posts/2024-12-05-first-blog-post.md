@@ -1,38 +1,26 @@
 ---
 layout: post
-title: "Welcome to My Second Research and Art Journey"
+title: "Drawing Games for Little Observers"
 date: 2024-12-05
-categories: [blog, intro]
+categories: [blog, Publications]
 ---
 
-# Welcome back to My First Blog Post!
+# Published a drawing book on Amazon
 
-Hello everyone! This is the beginning of my blog where I'll be sharing insights about my work in machine learning research and my artistic endeavors.
+**"Drawing Games for Little Observers"** is a collection of creative games designed to teach children how to draw by sharpening their observational skills. Each game encourages children to see drawing as a joyful exploration rather than a test of skill or accuracy. However, these games are not solo activities; they require the active participation of an adult to make the experience richer and more engaging. Together, the child and adult can embark on these games, discovering new ways to look at and interpret the world.
 
-## What to Expect
+![Drawing Games for Little Observers](/images/book.png)
 
-In this space, I'll be writing about:
+The aim of this approach is to help children understand that drawing is not simply about copying a photo or imitating an expert's artwork—both of which can feel daunting due to their precision or skill. Instead, these games show that drawing is about creating a unique interpretation of the world. By learning to observe without the pressure of achieving photographic realism, children realize that what they create is their own unfiltered view—a "first-hand" interpretation. This understanding fosters confidence, as the child sees drawing not as a comparison to others' work but as a direct expression of their own perception.
 
-- Latest ML research projects
-- Art experiments and processes
-- Thoughts on the intersection of AI and art
-- Technical tutorials and insights
+Through these games, children begin to appreciate that drawing is a skill everyone can develop. It is less about perfection and more about the ability to see and capture what they notice, building self-assurance in their own abilities to interpret and represent the world around them.
 
-### Current Work
+### A Note on How to Use This Book
 
-I'm currently working on [brief description of your current project]. This combines my interest in machine learning with artistic expression, specifically focusing on [your specific focus].
+"Drawing Games for Little Observers" is designed to be a flexible journey of creativity and observation. There is no specific order to follow—each page contains a unique game that can be explored at any time. Feel free to pick games that spark the most interest or try as many as you like. Repeating favorite games is encouraged, as the aim is to make drawing enjoyable and engaging for both the child and adult.
 
-## Future Posts
+This book is about having fun while learning to see the world differently. If you and your child come up with your own drawing games, that's even better! The main goal is to foster observation, build confidence, and show that drawing isn’t as daunting as it seems. It’s all about exploring together, interpreting the world in your own way, and enjoying the creative process.
 
-Stay tuned for:
-
-- Detailed breakdowns of my research papers
-- Behind-the-scenes looks at my artistic process
-- Tutorial series on ML techniques
-- Exhibition announcements
-
-Feel free to reach out to me on [Instagram](https://instagram.com/yourusername) or through the contact form on my website.
+Feel free to reach out to me on [Instagram](https://instagram.com/guidosalimbeni).
 
 ---
-
-_This is just the beginning of many conversations to come. Thanks for joining me on this journey!_
