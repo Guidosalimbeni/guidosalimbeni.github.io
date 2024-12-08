@@ -4,6 +4,6 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Add these lines:
-baseurl: "" # leave empty if your site is at root level
-url: "www.guidosalimbeni.it" # your site's full URL
+# Fix these lines:
+baseurl: "/blog" # your site is served from /blog subdirectory
+url: "https://www.guidosalimbeni.it" # include https:// and no trailing slash
