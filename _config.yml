@@ -7,3 +7,5 @@ plugins:
 # Fix these lines:
 baseurl: ""
 url: "https://www.guidosalimbeni.it" # include https:// and no trailing slash
+
+google_analytics: G-6VF1KEHVPH
