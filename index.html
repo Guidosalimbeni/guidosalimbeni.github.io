@@ -33,10 +33,24 @@ layout: default
           <p><i class="fas fa-location-dot"></i> Manchester, UK</p>
           <!-- <p><i class="fas fa-envelope"></i> guido.salimbeni@gmail.com</p> -->
           <p>
-            <a href="https://www.linkedin.com/in/guidosalimbeni" target="_blank"
+            <a
+              href="https://www.linkedin.com/in/guidosalimbeni"
+              target="_blank"
+              onclick="gtag('event', 'click', {
+         'event_category': 'Social Links',
+         'event_label': 'LinkedIn Profile',
+         'transport_type': 'beacon'
+       });"
               ><i class="fab fa-linkedin"></i> LinkedIn</a
             >
-            <a href="https://www.instagram.com/guidosalimbeni" target="_blank"
+            <a
+              href="https://www.instagram.com/guidosalimbeni"
+              target="_blank"
+              onclick="gtag('event', 'click', {
+         'event_category': 'Social Links',
+         'event_label': 'Instagram Profile',
+         'transport_type': 'beacon'
+       });"
               ><i class="fab fa-instagram"></i> Instagram</a
             >
           </p>
