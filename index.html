@@ -2,78 +2,61 @@
 layout: default
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Guido Salimbeni - AI Researcher, Data Scientist, Artist</title>
+<nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="about.html">Resume</a></li>
+    <li><a href="publications.html">Publications</a></li>
+    <li><a href="blog.html">Blog</a></li>
+  </ul>
+</nav>
 
-    <link rel="stylesheet" href="css/style.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
-    />
-  </head>
+<main>
+  <header class="cv-header">
+    <!-- <h1>Guido Salimbeni</h1> -->
+    <div class="contact-info">
+      <p><i class="fas fa-location-dot"></i> Manchester, UK</p>
+      <!-- <p><i class="fas fa-envelope"></i> guido.salimbeni@gmail.com</p> -->
+      <p>
+        <a
+          href="https://www.linkedin.com/in/guidosalimbeni"
+          target="_blank"
+          onclick="gtag('event', 'click', {
+     'event_category': 'Social Links',
+     'event_label': 'LinkedIn Profile',
+     'transport_type': 'beacon'
+   });"
+          ><i class="fab fa-linkedin"></i> LinkedIn</a
+        >
+        <a
+          href="https://www.instagram.com/guidosalimbeni"
+          target="_blank"
+          onclick="gtag('event', 'click', {
+     'event_category': 'Social Links',
+     'event_label': 'Instagram Profile',
+     'transport_type': 'beacon'
+   });"
+          ><i class="fab fa-instagram"></i> Instagram</a
+        >
+      </p>
+    </div>
+  </header>
+  <section class="hero">
+    <p>
+      Data Scientist and AI practitioner with over 10 years of experience in
+      implementing data-driven solutions across various industries. Proven track
+      record in leading teams, developing data science strategies, and
+      delivering substantial business impact through advanced analytics and AI
+      applications. Serving as a Data Science Lead at IAG Loyalty. Submitted a
+      PhD at the University of Nottingham that explores the integration of AI
+      technologies in artistic practices, combining traditional techniques with
+      cutting-edge computational methods.
+    </p>
+  </section>
+</main>
 
-  <body>
-    <nav>
-      <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">Resume</a></li>
-        <li><a href="publications.html">Publications</a></li>
-        <li><a href="blog.html">Blog</a></li>
-      </ul>
-    </nav>
+<footer>
+  <p>&copy; 2024 Guido Salimbeni</p>
+</footer>
 
-    <main>
-      <header class="cv-header">
-        <!-- <h1>Guido Salimbeni</h1> -->
-        <div class="contact-info">
-          <p><i class="fas fa-location-dot"></i> Manchester, UK</p>
-          <!-- <p><i class="fas fa-envelope"></i> guido.salimbeni@gmail.com</p> -->
-          <p>
-            <a
-              href="https://www.linkedin.com/in/guidosalimbeni"
-              target="_blank"
-              onclick="gtag('event', 'click', {
-         'event_category': 'Social Links',
-         'event_label': 'LinkedIn Profile',
-         'transport_type': 'beacon'
-       });"
-              ><i class="fab fa-linkedin"></i> LinkedIn</a
-            >
-            <a
-              href="https://www.instagram.com/guidosalimbeni"
-              target="_blank"
-              onclick="gtag('event', 'click', {
-         'event_category': 'Social Links',
-         'event_label': 'Instagram Profile',
-         'transport_type': 'beacon'
-       });"
-              ><i class="fab fa-instagram"></i> Instagram</a
-            >
-          </p>
-        </div>
-      </header>
-      <section class="hero">
-        <p>
-          Data Scientist and AI practitioner with over 10 years of experience in
-          implementing data-driven solutions across various industries. Proven
-          track record in leading teams, developing data science strategies, and
-          delivering substantial business impact through advanced analytics and
-          AI applications. Serving as a Data Science Lead at IAG Loyalty.
-          Submitted a PhD at the University of Nottingham that explores the
-          integration of AI technologies in artistic practices, combining
-          traditional techniques with cutting-edge computational methods.
-        </p>
-      </section>
-    </main>
-
-    <footer>
-      <p>&copy; 2024 Guido Salimbeni</p>
-    </footer>
-
-    <script src="js/main.js"></script>
-  </body>
-</html>
+<script src="js/main.js"></script>
