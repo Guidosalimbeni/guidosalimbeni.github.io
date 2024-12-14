@@ -52,20 +52,36 @@ layout: default
                 href="https://www.linkedin.com/in/guidosalimbeni"
                 class="list-group-item list-group-item-action"
                 target="_blank"
+                onclick="gtag('event', 'click', {
+                    'event_category': 'Social Links',
+                    'event_label': 'LinkedIn Profile',
+                    'transport_type': 'beacon'
+                  });"
               >
                 <i class="fab fa-linkedin"></i> LinkedIn
               </a>
+
               <a
                 href="https://www.instagram.com/guidosalimbeni"
                 class="list-group-item list-group-item-action"
                 target="_blank"
+                onclick="gtag('event', 'click', {
+                    'event_category': 'Social Links',
+                    'event_label': 'Instagram Profile',
+                    'transport_type': 'beacon'
+                  });"
               >
                 <i class="fab fa-instagram"></i> Instagram
               </a>
               <a
-                href="https://amzn.eu/d/fZw5xsp"
+                href="https://www.amazon.com/dp/B0DMMFMM6G?ref_=cm_sw_r_ffobk_cp_ud_dp_9121KTBRXK68S30732GT&peakEvent=5&dealEvent=0&skipTwisterOG=1&bestFormat=true"
                 class="list-group-item list-group-item-action"
                 target="_blank"
+                onclick="gtag('event', 'click', {
+                    'event_category': 'Shopping',
+                    'event_label': 'Drawing Book',
+                    'transport_type': 'beacon'
+                  });"
               >
                 <i class="fab fa-amazon"></i> My Book on Amazon
               </a>
