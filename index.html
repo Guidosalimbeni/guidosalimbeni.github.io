@@ -2,58 +2,61 @@
 layout: default
 ---
 
-<nav>
-  <ul>
-    <li><a href="index.html">Home</a></li>
-    <li><a href="resume.html">Resume</a></li>
-    <li><a href="publications.html">Publications</a></li>
-    <li><a href="blog.html">Blog</a></li>
-  </ul>
-</nav>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-lg-10">
+      <!-- Header Section -->
+      <header class="text-center mb-5">
+        <h3 class="display-5 mb-4">Guido Salimbeni</h3>
+        <div class="social-links mb-4">
+          <a
+            href="https://www.linkedin.com/in/guidosalimbeni"
+            target="_blank"
+            class="btn btn-outline-primary me-2"
+            onclick="gtag('event', 'click', {
+               'event_category': 'Social Links',
+               'event_label': 'LinkedIn Profile',
+               'transport_type': 'beacon'
+             });"
+          >
+            <i class="fab fa-linkedin"></i> LinkedIn
+          </a>
+          <a
+            href="https://www.instagram.com/guidosalimbeni"
+            target="_blank"
+            class="btn btn-outline-primary"
+            onclick="gtag('event', 'click', {
+               'event_category': 'Social Links',
+               'event_label': 'Instagram Profile',
+               'transport_type': 'beacon'
+             });"
+          >
+            <i class="fab fa-instagram"></i> Instagram
+          </a>
+        </div>
+      </header>
 
-<main>
-  <header class="cv-header">
-    <h3>Guido Salimbeni</h3>
-    <div class="contact-info">
-      <!-- <p><i class="fas fa-location-dot"></i> Manchester, UK</p> -->
-      <!-- <p><i class="fas fa-envelope"></i> guido.salimbeni@gmail.com</p> -->
-      <p>
-        <a
-          href="https://www.linkedin.com/in/guidosalimbeni"
-          target="_blank"
-          onclick="gtag('event', 'click', {
-     'event_category': 'Social Links',
-     'event_label': 'LinkedIn Profile',
-     'transport_type': 'beacon'
-   });"
-          ><i class="fab fa-linkedin"></i> LinkedIn</a
-        >
-        <a
-          href="https://www.instagram.com/guidosalimbeni"
-          target="_blank"
-          onclick="gtag('event', 'click', {
-     'event_category': 'Social Links',
-     'event_label': 'Instagram Profile',
-     'transport_type': 'beacon'
-   });"
-          ><i class="fab fa-instagram"></i> Instagram</a
-        >
-      </p>
+      <!-- Hero Section -->
+      <section class="hero mb-5">
+        <div class="card">
+          <div class="card-body">
+            <p class="card-text lead text-justify">
+              Data Scientist and AI practitioner with over 10 years of
+              experience in implementing data-driven solutions across various
+              industries. Proven track record in leading teams, developing data
+              science strategies, and delivering substantial business impact
+              through advanced analytics and AI applications. Serving as a Data
+              Science Lead at IAG Loyalty. Submitted a PhD at the University of
+              Nottingham that explores the integration of AI technologies in
+              artistic practices, combining traditional techniques with
+              cutting-edge computational methods.
+            </p>
+          </div>
+        </div>
+      </section>
     </div>
-  </header>
-  <section class="hero">
-    <p style="text-align: justify">
-      Data Scientist and AI practitioner with over 10 years of experience in
-      implementing data-driven solutions across various industries. Proven track
-      record in leading teams, developing data science strategies, and
-      delivering substantial business impact through advanced analytics and AI
-      applications. Serving as a Data Science Lead at IAG Loyalty. Submitted a
-      PhD at the University of Nottingham that explores the integration of AI
-      technologies in artistic practices, combining traditional techniques with
-      cutting-edge computational methods.
-    </p>
-  </section>
-</main>
+  </div>
+</div>
 
 <footer>
   <p>&copy; 2024 Guido Salimbeni</p>
