@@ -1,0 +1,90 @@
+---
+layout: default
+---
+
+<nav>
+  <ul>
+    <li><a href="/index.html">Home</a></li>
+    <li><a href="/about.html">Resume</a></li>
+    <li><a href="/publications.html">Publications</a></li>
+    <li><a href="/blog.html">Blog</a></li>
+  </ul>
+</nav>
+
+<div class="post-container">
+  <article class="post">
+    <header class="post-header">
+      <h1>{{ page.title }}</h1>
+      <div class="post-meta">
+        <span class="post-date">{{ page.date | date: "%B %d, %Y" }}</span>
+        {% if page.categories %}
+        <div class="post-categories">
+          <i class="fas fa-tags"></i>
+          {% for category in page.categories %}
+          <span class="category">{{ category }}</span>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </header>
+
+    <div class="post-content">{{ content }}</div>
+  </article>
+
+  <aside class="post-sidebar">
+    <div class="social-links">
+      <h3>Connect</h3>
+      <a
+        href="https://www.linkedin.com/in/guidosalimbeni"
+        target="_blank"
+        onclick="gtag('event', 'click', {
+           'event_category': 'Social Links',
+           'event_label': 'LinkedIn Profile',
+           'transport_type': 'beacon'
+         });"
+      >
+        <i class="fab fa-linkedin"></i> LinkedIn
+      </a>
+      <a
+        href="https://www.instagram.com/guidosalimbeni"
+        target="_blank"
+        onclick="gtag('event', 'click', {
+           'event_category': 'Social Links',
+           'event_label': 'Instagram Profile',
+           'transport_type': 'beacon'
+         });"
+      >
+        <i class="fab fa-instagram"></i> Instagram
+      </a>
+      <a
+        href="https://amzn.eu/d/fZw5xsp"
+        target="_blank"
+        onclick="gtag('event', 'click', {
+           'event_category': 'Shop Links',
+           'event_label': 'Amazon Shop',
+           'transport_type': 'beacon'
+         });"
+      >
+        <i class="fab fa-amazon"></i> My Book on Amazon
+      </a>
+    </div>
+
+    <div class="categories-widget">
+      <h3>Categories</h3>
+      {% assign categories = site.categories | sort %}
+      <ul>
+        {% for category in categories %}
+        <li>
+          <a href="/categories/{{ category[0] | slugify }}">
+            {{ category[0] }} ({{ category[1].size }})
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="back-to-blog">
+      <a href="/blog.html"><i class="fas fa-arrow-left"></i> Back to Blog</a>
+    </div>
+  </aside>
+</div>
