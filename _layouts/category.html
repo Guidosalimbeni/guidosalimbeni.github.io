@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light mb-4">
+  <div class="container">
+    <ul class="navbar-nav mx-auto">
+      <li class="nav-item"><a class="nav-link" href="/index.html">Home</a></li>
+      <li class="nav-item">
+        <a class="nav-link" href="/about.html">Resume</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/publications.html">Publications</a>
+      </li>
+      <li class="nav-item"><a class="nav-link" href="/blog.html">Blog</a></li>
+    </ul>
+  </div>
+</nav>
+
+<div class="container">
+  <h1 class="mb-4">Category: {{ page.category }}</h1>
+
+  <div class="row">
+    {% for post in site.categories[page.category] %}
+    <div class="col-md-12 mb-4">
+      <div class="card">
+        <div class="card-body">
+          <h2 class="card-title">
+            <a href="{{ post.url }}" class="text-decoration-none"
+              >{{ post.title }}</a
+            >
+          </h2>
+          <p class="text-muted">{{ post.date | date: "%B %d, %Y" }}</p>
+          <p class="card-text">{{ post.excerpt }}</p>
+          <a href="{{ post.url }}" class="btn btn-primary">Read More</a>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>

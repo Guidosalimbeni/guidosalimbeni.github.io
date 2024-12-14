@@ -96,7 +96,7 @@ layout: default
               {% assign categories = site.categories | sort %} {% for category
               in categories %}
               <a
-                href="/categories/{{ category[0] | slugify }}"
+                href="{{ site.baseurl }}/categories/{{ category[0] | downcase }}/"
                 class="list-group-item list-group-item-action d-flex justify-content-between align-items-center"
               >
                 {{ category[0] }}
