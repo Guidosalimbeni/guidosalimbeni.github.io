@@ -26,6 +26,15 @@ nav a {
   color: #333;
 }
 
+nav ul li {
+  margin: 0 15px; /* Adds space between items */
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333; /* Or whatever color you're using */
+}
+
 /* Hero section */
 .hero {
   text-align: center;
