@@ -4,7 +4,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Fix these lines:
+#
 baseurl: ""
 url: "https://www.guidosalimbeni.it" # include https:// and no trailing slash
 
