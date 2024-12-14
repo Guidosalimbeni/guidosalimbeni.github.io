@@ -11,14 +11,21 @@
       rel="stylesheet"
     />
 
-    <!-- Your custom CSS -->
-    <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css" />
-
     <!-- Font Awesome -->
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
     />
+
+    <!-- Custom CSS -->
+    <style>
+      body {
+        background-color: #f8f9fa;
+      }
+      .navbar {
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+    </style>
 
     {% include google-analytics.html %}
   </head>
@@ -50,15 +57,7 @@
     </nav>
 
     <!-- Main Content -->
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-lg-10">
-          <div class="card shadow-sm mb-4">
-            <div class="card-body">{{ content }}</div>
-          </div>
-        </div>
-      </div>
-    </div>
+    {{ content }}
 
     <!-- Footer -->
     <footer class="bg-white py-4 mt-5">
