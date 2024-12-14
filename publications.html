@@ -2,97 +2,98 @@
 layout: default
 ---
 
-<nav>
-  <ul>
-    <li><a href="index.html">Home</a></li>
-    <li><a href="resume.html">Resume</a></li>
-    <li><a href="publications.html">Publications</a></li>
-    <li><a href="blog.html">Blog</a></li>
-  </ul>
-</nav>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-lg-10">
+      <!-- Header Section -->
+      <header class="text-center mb-5">
+        <h1 class="display-4 mb-4">Publications</h1>
+        <div class="social-links mb-4">
+          <a
+            href="https://www.linkedin.com/in/guidosalimbeni"
+            target="_blank"
+            class="btn btn-outline-primary me-2"
+            onclick="gtag('event', 'click', {
+               'event_category': 'Social Links',
+               'event_label': 'LinkedIn Profile',
+               'transport_type': 'beacon'
+             });"
+          >
+            <i class="fab fa-linkedin"></i> LinkedIn
+          </a>
+          <a
+            href="https://www.instagram.com/guidosalimbeni"
+            target="_blank"
+            class="btn btn-outline-primary"
+            onclick="gtag('event', 'click', {
+               'event_category': 'Social Links',
+               'event_label': 'Instagram Profile',
+               'transport_type': 'beacon'
+             });"
+          >
+            <i class="fab fa-instagram"></i> Instagram
+          </a>
+        </div>
+      </header>
 
-<main class="cv-container">
-  <header class="cv-header">
-    <h1>Publications</h1>
-    <div class="contact-info">
-      <p>
-        <a
-          href="https://www.linkedin.com/in/guidosalimbeni"
-          target="_blank"
-          onclick="gtag('event', 'click', {
-         'event_category': 'Social Links',
-         'event_label': 'LinkedIn Profile',
-         'transport_type': 'beacon'
-       });"
-          ><i class="fab fa-linkedin"></i> LinkedIn</a
-        >
-        <a
-          href="https://www.instagram.com/guidosalimbeni"
-          target="_blank"
-          onclick="gtag('event', 'click', {
-         'event_category': 'Social Links',
-         'event_label': 'Instagram Profile',
-         'transport_type': 'beacon'
-       });"
-          ><i class="fab fa-instagram"></i> Instagram</a
-        >
-      </p>
+      <!-- Academic Publications -->
+      <section class="mb-5">
+        <div class="card">
+          <div class="card-body">
+            <h2 class="card-title mb-4">Academic Publications</h2>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">
+                Salimbeni, Guido, et al. "Decoding AI in Contemporary Art: A
+                Five-Trope Classification for Understanding and Categorization."
+                Leonardo (2024): 420-426.
+              </li>
+              <li class="list-group-item">
+                Salimbeni, G., Leymarie, F.F. and Latham, W., 2019. Generative
+                system to assist the artist in choosing a 3D composition for a
+                still-life painting. In Machine Learning for Creativity and
+                Design (NeurIPS 2019 Workshop).
+              </li>
+              <li class="list-group-item">
+                Salimbeni, G., Fol Leymarie, F. and Latham, W., 2022. A machine
+                learning Application based on Giorgio Morandi's Still-life
+                paintings to Assist Artists in the Choice of 3d Compositions.
+                Leonardo, 55(1), pp.57-61
+              </li>
+              <li class="list-group-item">
+                Leymarie, F.F., Latham, W., Sternberg, M.J., Salimbeni, G.,
+                Islam, S.A., Reynolds, C., Cook, C., Suarez, L.A. and
+                Leinfellner, R., 2022. Bioblox 2.5 D--Developing an Educational
+                Game Based on Protein-Docking. arXiv preprint arXiv:2204.12425.
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <!-- Conference Proceedings -->
+      <section class="mb-5">
+        <div class="card">
+          <div class="card-body">
+            <h2 class="card-title mb-4">Conference Proceedings</h2>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">
+                Benford SD, Mancini C, Chamberlain A, Schneiders E, Castle-Green
+                SD, Fischer JE, Kucukyilmaz A, Salimbeni G, Ngo VZ, Barnard P,
+                Adams M. Charting Ethical Tensions in Multispecies Technology
+                Research through Beneficiary-Epistemology Space. In Proceedings
+                of the CHI Conference on Human Factors in Computing Systems 2024
+                May 11 (pp. 1-15).
+              </li>
+              <li class="list-group-item">
+                Sivertsen C, Salimbeni G, Løvlie AS, Benford SD, Zhu J. Machine
+                Learning Processes as Sources of Ambiguity: Insights from AI
+                Art. In Proceedings of the CHI Conference on Human Factors in
+                Computing Systems 2024 May 11 (pp. 1-14).
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
     </div>
-  </header>
-
-  <section class="cv-section">
-    <h2>Academic Publications</h2>
-    <div class="cv-item">
-      <ul>
-        <li>
-          Salimbeni, Guido, et al. "Decoding AI in Contemporary Art: A
-          Five-Trope Classification for Understanding and Categorization."
-          Leonardo (2024): 420-426.
-        </li>
-        <li>
-          Salimbeni, G., Leymarie, F.F. and Latham, W., 2019. Generative system
-          to assist the artist in choosing a 3D composition for a still-life
-          painting. In Machine Learning for Creativity and Design (NeurIPS 2019
-          Workshop).
-        </li>
-        <li>
-          Salimbeni, G., Fol Leymarie, F. and Latham, W., 2022. A machine
-          learning Application based on Giorgio Morandi's Still-life paintings
-          to Assist Artists in the Choice of 3d Compositions. Leonardo, 55(1),
-          pp.57-61
-        </li>
-        <li>
-          Leymarie, F.F., Latham, W., Sternberg, M.J., Salimbeni, G., Islam,
-          S.A., Reynolds, C., Cook, C., Suarez, L.A. and Leinfellner, R., 2022.
-          Bioblox 2.5 D--Developing an Educational Game Based on
-          Protein-Docking. arXiv preprint arXiv:2204.12425.
-        </li>
-      </ul>
-    </div>
-  </section>
-
-  <section class="cv-section">
-    <h2>Conference Proceedings</h2>
-    <div class="cv-item">
-      <ul>
-        <li>
-          Benford SD, Mancini C, Chamberlain A, Schneiders E, Castle-Green SD,
-          Fischer JE, Kucukyilmaz A, Salimbeni G, Ngo VZ, Barnard P, Adams M.
-          Charting Ethical Tensions in Multispecies Technology Research through
-          Beneficiary-Epistemology Space. In Proceedings of the CHI Conference
-          on Human Factors in Computing Systems 2024 May 11 (pp. 1-15).
-        </li>
-        <li>
-          Sivertsen C, Salimbeni G, Løvlie AS, Benford SD, Zhu J. Machine
-          Learning Processes as Sources of Ambiguity: Insights from AI Art. In
-          Proceedings of the CHI Conference on Human Factors in Computing
-          Systems 2024 May 11 (pp. 1-14).
-        </li>
-      </ul>
-    </div>
-  </section>
-</main>
-
-<footer>
-  <p>&copy; 2024 Guido Salimbeni</p>
-</footer>
+  </div>
+</div>
