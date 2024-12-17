@@ -2,7 +2,7 @@
 layout: post
 title: "AI Art News Digest - December 2024"
 date: 2024-12-17
-categories: [blog, AI_Art]
+categories: [blog, aiart]
 ---
 
 # AI Art News - December 17, 2024
