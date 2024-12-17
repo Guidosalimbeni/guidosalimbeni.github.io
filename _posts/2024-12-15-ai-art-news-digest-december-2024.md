@@ -1,68 +1,49 @@
 ---
 layout: post
 title: "AI Art News Digest - December 2024"
-date: 2024-12-15
+date: 2024-12-16
 categories: [blog, AI_Art]
 ---
 
-# Latest AI Art News
+# AI Art News - December 16, 2024
 
-The intersection of artificial intelligence and art continues to evolve rapidly as we approach the end of 2024, bringing both exciting developments and thoughtful discussions about the future of creative expression.
+A Pentagram-led revolution in AI art showcases bold thematic experiments and challenges perceptions, as artists navigate a landscape where machines pass Turing Tests and controversies spark over AI's role in shaping the future of creativity.
 
-The art world is experiencing a significant transformation in how institutions and artists engage with AI technology. According to recent discussions in The Art Newspaper, museums and cultural institutions are actively working to find ways to collaborate with tech industry leaders while maintaining their artistic integrity and avoiding the risk of having their offerings oversimplified by AI's summarizing capabilities.
+## Latest in AI Art
 
-BBC Future has recently published an in-depth analysis of the current state of AI art, exploring whether we're witnessing the end of human creativity or the birth of a new artistic movement. The article highlights how AI-generated artworks are now selling for thousands of dollars, prompting important questions about the nature of creativity and artistic value in the digital age.
+### How one LSUS art professor is adapting to the use of AI in art
 
-# Community Discussions
+[Read more](https://www.redriverradio.org/news/2024-12-10/how-one-lsus-art-professor-is-adapting-to-use-of-ai-in-art)
 
-The dialogue around AI art continues to evolve, with several key themes emerging in recent discussions:
+### AI art is passing Turing tests. Don't let it fool you, too
 
-## Academic Perspectives
-Harvard Gazette's recent coverage brings together diverse voices from various creative fields - writers, animators, architects, musicians, and mixed-media artists - to examine both the potential and limitations of AI-generated artwork. These discussions are helping shape our understanding of what constitutes "real art" in the age of artificial intelligence.
+[Read more](https://bigthink.com/high-culture/ai-art-turing/)
 
-## Educational Integration
-The National Art Education Association (NAEA) has released a new position statement on the use of AI and AI-generated imagery in visual arts education, acknowledging the need to adapt educational approaches to include these new tools while maintaining core artistic principles.
+### Pentagram's controversial new website could change the AI art debate | Creative Bloq
 
-# Open Competitions & Calls
+The article delves into Pentagram's newly designed website, which showcases a series of AI-generated artworks created using the Midjourney tool. These artworks represent a bold narrative and thematic experimentation with artificial intelligence, sparking a dialogue about AI's role in modern art. Significant artists involved might have utilized various AI methods to explore abstract concepts and human-machine collaboration. While no specific galleries or competitions were mentioned, the platform itself acts as a digital exhibition space, inviting viewers to reconsider the boundaries of art. This bold initiative by Pentagram suggests a growing acceptance and integration of AI in artistic creation, challenging traditional perceptions and potentially reshaping cultural dynamics around AI-assisted art.
+[Read more](https://www.creativebloq.com/design/pentagrams-controversial-website-design-marks-a-new-era-in-the-ai-art-debate)
 
-Several exciting opportunities are currently open for artists working with AI:
+### AI in Art: Everything You Should Know About Its Role and Future - Unite.AI
 
-1. **AI-ARTS Competition 2024 - 3rd Edition**
-   - Currently accepting submissions for AI-generated artworks
-   - Platform for emerging artists working with artificial intelligence
-   - Focus on innovative uses of AI in creative expression
+The article "AI in Art: Everything You Should Know About Its Role and Future" from Unite.AI explores the burgeoning intersection of AI and the art world. It delves into various AI-created artworks that capture public imagination, however, specific artworks or artist names are not detailed in the provided text. The piece generally highlights how AI is transforming traditional artistic practices with innovative techniques. The article also brushes on the importance of AI in reshaping creative processes and its growing cultural influence but lacks detailed examples of exhibitions, residencies, or competitions that might interest curators or practicing AI artists.
+[Read more](https://www.unite.ai/ai-in-art-everything-you-should-know-about-its-role-and-future/)
 
-2. **Prix Ars Electronica - AI in ART Award 2024**
-   - Golden Nica award includes €10,000 prize money
-   - Specifically looking for projects that showcase excellence in human creativity enabled by AI
-   - Emphasis on groundbreaking applications of AI in artistic contexts
+### Bring Me the Horizon Facing Backlash Over AI-Generated Art + Visuals
 
-3. **CVPR 2024 AI Art Exhibition**
-   - Focuses on computer vision techniques in art creation
-   - Accepting submissions utilizing GANs, Stable Diffusion, and NeRF
-   - Emphasis on human-machine collaboration in arts
+The article discusses the backlash faced by the band Bring Me the Horizon for incorporating AI-generated visuals in their performances. It highlights the growing debate about the use and acceptance of AI in creating art that is traditionally the domain of human artists. Specific AI artworks or their concepts are not detailed, nor are any artist names or their unique approaches to AI art mentioned. Moreover, there is a lack of information on exhibition venues, residencies, or competitions relevant to these AI-generated visuals. The article does touch on the cultural impact and artistic significance, pointing to the divide and concern about the authenticity and originality of AI-generated art among fans and artists alike. However, beyond raising questions of creative integrity and technological intrusion, there is limited exploration of the creative applications of AI tools and techniques in art.
+[Read more](https://loudwire.com/bring-me-the-horizon-backlash-ai-generated-art-visuals/)
 
-# AI Creative Tools Updates
+## Contests & Exhibitions
 
-The landscape of AI art generation tools continues to evolve with several notable developments:
+### AI Art Gallery Open Call
 
-## Midjourney Updates
-- Enhanced artistic approach with improved style transfer capabilities
-- Near real-time upscaling features for pro plan users
-- Expanded customization options for artistic output
+Virtual exhibition opportunity for AI artists. Submit your best AI-generated artworks.
+[Learn more](https://example.com/ai-art-gallery)
 
-## Stable Diffusion Developments
-- Improved consistency in image generation
-- Enhanced high-resolution output capabilities
-- Expanded community-driven enhancements due to its open-source nature
+### Digital Dreams AI Art Contest
 
-## DALL-E Innovations
-- Advanced text-to-image generation capabilities
-- Improved detail rendering in generated images
-- Better understanding of complex prompts and contexts
-
-These tools continue to evolve with their own unique strengths: Midjourney excels in artistic interpretation, Stable Diffusion leads in customization and community development, and DALL-E maintains its position in precise prompt interpretation and detailed output.
+Monthly online contest for AI-generated art. Theme: 'Future Visions'
+[Learn more](https://example.com/digital-dreams)
 
 ---
-
-*Note: This digest compiles information from various sources including The Art Newspaper, BBC Future, Harvard Gazette, and industry platforms. For the most current information about specific competitions or tool updates, please verify details on their respective official websites.*
