@@ -70,6 +70,21 @@ layout: default
               >
                 <i class="fab fa-amazon"></i> My Book on Amazon
               </a>
+              <!-- Subscribe Button -->
+              <div class="text-center my-4">
+                <a
+                  href="https://feeds.feedburner.com/guidosalimbeni/subscribe"
+                  class="btn btn-primary"
+                  target="_blank"
+                  onclick="gtag('event', 'click', {
+       'event_category': 'Subscription',
+       'event_label': 'Subscribe to Blog',
+       'transport_type': 'beacon'
+     });"
+                >
+                  Subscribe to Blog
+                </a>
+              </div>
             </div>
           </div>
         </div>
