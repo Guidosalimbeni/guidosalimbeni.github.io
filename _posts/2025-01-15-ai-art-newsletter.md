@@ -3,6 +3,7 @@ layout: post
 title: "AI Art Newsletter - 15 Jan 2025"
 date: 2025-01-15
 categories: [blog, aiart]
+keywords: "AI art newsletter, AI artists, generative AI, AI artist, AI creativity news"
 ---
 
 # AI Art Newsletter - January 15, 2025
