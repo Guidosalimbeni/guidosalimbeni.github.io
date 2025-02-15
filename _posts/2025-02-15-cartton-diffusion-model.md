@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Caricature limitation of Gen AI "
-date: 2024-12-05
+date: 2024-02-16
 categories: [blog, Publications]
 keywords: "AI caricatures"
 ---
