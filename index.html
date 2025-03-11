@@ -46,6 +46,53 @@ layout: default
           </div>
         </div>
       </section>
+
+      <!-- Projects Section -->
+      <section id="projects" class="projects-section mb-5">
+        <h2 class="text-center mb-4">Featured Projects</h2>
+
+        <!-- Optional Filter Buttons -->
+        <div class="text-center mb-4">
+          <div class="btn-group" role="group" aria-label="Project filters">
+            <button
+              type="button"
+              class="btn btn-outline-primary filter-btn active"
+              data-category="all"
+            >
+              All
+            </button>
+            <button
+              type="button"
+              class="btn btn-outline-primary filter-btn"
+              data-category="ai"
+            >
+              AI
+            </button>
+            <button
+              type="button"
+              class="btn btn-outline-primary filter-btn"
+              data-category="data"
+            >
+              Data Science
+            </button>
+            <button
+              type="button"
+              class="btn btn-outline-primary filter-btn"
+              data-category="research"
+            >
+              Research
+            </button>
+          </div>
+        </div>
+
+        <!-- Dynamic Projects Container -->
+        <div id="projects-container" class="row g-4">
+          <!-- Projects will be loaded dynamically via JavaScript -->
+        </div>
+      </section>
     </div>
   </div>
 </div>
+
+<!-- Custom JS -->
+<script src="js/main.js"></script>
