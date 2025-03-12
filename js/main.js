@@ -19,19 +19,19 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     {
       id: 3,
-      title: "Research Publications",
+      title: "Last Words",
       description:
-        "Academic research exploring the intersection of artificial intelligence, computational creativity, and traditional art forms.",
-      image: "https://via.placeholder.com/300x200",
-      url: "#project3",
+        "An artistic exploration using AI to match your face with death row inmates, presenting their final statements to evoke empathy and reflection on capital punishment and human identity",
+      image: "/images/lastword.png",
+      url: "https://last-words-web-app.vercel.app/",
     },
     {
       id: 4,
-      title: "AI Consulting",
+      title: "Drawing Games for Little Observers",
       description:
-        "Strategic consulting services helping organizations leverage AI technologies for business growth and innovation.",
-      image: "https://via.placeholder.com/300x200",
-      url: "#project4",
+        "A playful book of creative drawing games, encouraging children to explore art by sharpening their observational skills, boosting confidence, and celebrating unique perspectives—turning drawing into joyful exploration rather than a test of accuracy.",
+      image: "/images/book_icon.png",
+      url: "https://amzn.eu/d/1Bz5bYl",
     },
   ];
 
