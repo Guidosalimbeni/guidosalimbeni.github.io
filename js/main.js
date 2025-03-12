@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  // Project data - can be replaced with real data later
+  // Project data
   const projectsData = [
     {
       id: 1,
