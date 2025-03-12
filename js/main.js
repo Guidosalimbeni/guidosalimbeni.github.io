@@ -3,10 +3,10 @@ document.addEventListener("DOMContentLoaded", function () {
   const projectsData = [
     {
       id: 1,
-      title: "AI Art Generation",
+      title: "Aironic",
       description:
-        "Exploring the boundaries of creativity with machine learning algorithms to generate unique artistic expressions.",
-      image: "https://via.placeholder.com/300x200",
+        "A chatbot with an ironic twist. Powered by advanced AI, Guido answers your questions just as the artist would—with a gentle touch of irony.",
+      image: "/images/aironic.png",
       url: "#project1",
     },
     {
