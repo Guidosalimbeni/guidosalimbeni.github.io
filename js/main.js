@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Aironic",
       description:
         "A chatbot with an ironic twist. Powered by advanced AI, Guido answers your questions just as the artist would—with a gentle touch of irony.",
-      image: "/images/aironic.png",
+      image: "https://via.placeholder.com/300x200",
       url: "#project1",
     },
     {
