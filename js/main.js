@@ -6,16 +6,16 @@ document.addEventListener("DOMContentLoaded", function () {
       title: "Aironic",
       description:
         "A chatbot with an ironic twist. Powered by advanced AI, Guido answers your questions just as the artist would—with a gentle touch of irony.",
-      image: "https://via.placeholder.com/300x200",
-      url: "#project1",
+      image: "/images/aironic.png",
+      url: "https://aironic.vercel.app/",
     },
     {
       id: 2,
-      title: "Data Visualization",
+      title: "FaceFunk",
       description:
-        "Interactive data visualization tools that transform complex datasets into meaningful and accessible insights.",
-      image: "https://via.placeholder.com/300x200",
-      url: "#project2",
+        "Instantly transform your selfies into stunning cartoon caricatures using advanced AI. Quick, easy, and pay only if you love the result!",
+      image: "/images/facefunk.png",
+      url: "https://facefunk.vercel.app/",
     },
     {
       id: 3,
