@@ -40,11 +40,13 @@ document.addEventListener("DOMContentLoaded", function () {
     return `
       <div class="col-md-6 col-lg-3" data-project-id="${project.id}">
         <div class="project-card card h-100">
-          <img
-            src="${project.image}"
-            class="card-img-top"
-            alt="${project.title}"
-          />
+          <a href="${project.url}" target="_blank">
+            <img
+              src="${project.image}"
+              class="card-img-top"
+              alt="${project.title}"
+            />
+          </a>
           <div class="card-body d-flex flex-column">
             <h5 class="card-title">${project.title}</h5>
             <p class="card-text flex-grow-1">${project.description}</p>
