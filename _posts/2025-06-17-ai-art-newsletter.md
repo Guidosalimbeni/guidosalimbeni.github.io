@@ -6,8 +6,6 @@ categories: [blog, aiart]
 keywords: "AI Art"
 ---
 
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # AI \& ART Newsletter - June 2025
 
 ## 🎨 Featured Exhibitions \& Galleries
